@@ -1,0 +1,19 @@
+       Readme For Project Structure
+              (VKRE84U)
+---------------------------------------------
+#Requirements On Prior 
+	- Apache Server (WAMP / XAMPP)
+	- Any Text Editor (Sublime Text Recommended)
+
+
+
+#Instructions On Execute
+	- Open Database.php (function/Database.php)
+		+ Change Database Username
+		+ Change Database Password
+
+
+#All Include Files Are Under Directory (function folder)
+	- Header.php (all css include for entire site) and if any css file for specific page then u shud include in that page itself after Header.php include
+	- Navbar.php ( navbar for both logged in and not logged in apperance)
+	- Footer.php (all js include for entire site) and if any js file for specific page then u shud include in that page itself after Header.php include
